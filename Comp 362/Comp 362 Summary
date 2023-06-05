@@ -1,0 +1,8 @@
+Units: 4
+Three hours lecture and three hours lab per week
+Prerequisite: COMP 262
+Examination of the principal types of systems including batch, multiprogramming, and time-sharing. 
+Networked systems are also discussed. 
+The salient problems associated with implementing systems are considered including interrupt or event driven systems, multi-tasking, storage and data base management, and input-output.
+Emphasis will be placed on some of the simple algorithms used to solve common problems encountered such as deadlocks, queue service, and multiple accesses to data. 
+Projects will be implemented to reinforce the lectures.
