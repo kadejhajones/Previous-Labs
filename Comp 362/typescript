@@ -1,0 +1,102 @@
+Script started on 2023-02-28 11:00:01-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="76" LINES="39"]
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05[00m$ cd kadejha.jonesLab05/
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05[00m$ ls 
+CMakeLists.txt      [0m[01;34mbuild[0m                  matrixMult.c
+[01;31mJonesKadejha05.zip[0m  [01;31mkadejhaJonesLab05.zip[0m  matrixMult.h
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05[00m$ cd build/
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05/build[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05/build[00m$  ls 
+CMakeCache.txt  Makefile  cmake_install.cmake
+[0m[01;34mCMakeFiles[0m      [01;34mbin[0m       compile_commands.json
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05/build[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05/build[00m$  cd bin/ 
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[00m$ ls 
+in.txt  [0m[01;32mmatrixMult[0m
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[00m$ cd [K[K[Kls [5@cd bin/[C[C[C[C[C[5Pls[Ccd build/[C[C[C[C[6Pls cd kadejha.jonesLab05/[C[C[C[Cexit [K[2Pls[Ccd[C9 8 7 6 5[C[C[C[C[6P4 83 7 2 6[C1 5[C[2@4 2[C[C[C[C[C[C[C[1P5 4 38 7 6 [C[C[C[C[2P3[C[C[C2 5[C1 4[C[2@3 2 3[C[C[C[C[C./matrixMult[C[C[C[C[7Pcd .../matrixMult in.txt 
+
+MATRIX A1
+1 4 
+2 5 
+3 6 
+
+MATRIX B1
+8 7 6 
+5 4 3 
+
+MATRIX A1 x B1
+28 23 18 
+41 34 27 
+54 45 36 
+
+MATRIX A2
+1 5 
+2 6 
+3 7 
+4 8 
+
+MATRIX B2
+9 8 7 6 5 
+4 3 2 1 0 
+
+MATRIX A2 x B2
+29 23 17 11 5 
+42 34 26 18 10 
+55 45 35 25 15 
+68 56 44 32 20 
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[00m$ ./matrixMult in.txt [K[K[K[K[K[K[K[K
+3 2 3 
+1 4 
+2 5 
+3 6 
+8 7 6 
+5 4 3
+4 2 5 
+1 5 
+2 6 
+3 7 
+4 8
+9 8 7 6 5
+4 3 2 1 0^[[A^[[A^[[A^[[A                
+
+MATRIX A1
+1 4 
+2 5 
+3 6 
+
+MATRIX B1
+8 7 6 
+5 4 3 
+
+MATRIX A1 x B1
+28 23 18 
+41 34 27 
+54 45 36 
+
+MATRIX A2
+1 5 
+2 6 
+3 7 
+4 8 
+
+MATRIX B2
+9 8 7 6 5 
+4 3 2 1 0 
+
+MATRIX A2 x B2
+29 23 17 11 5 
+42 34 26 18 10 
+55 45 35 25 15 
+68 56 44 32 20 
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[00m$ quit
+
+Command 'quit' not found, did you mean:
+
+  command 'quiz' from deb bsdgames (2.17-28build1)
+  command 'qgit' from deb qgit (2.9-1build1)
+  command 'luit' from deb x11-utils (7.7+5)
+  command 'quilt' from deb quilt (0.65-3)
+
+Try: sudo apt install <deb name>
+
+]0;kadejhaj@DESKTOP-92MDI9S: ~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[01;32mkadejhaj@DESKTOP-92MDI9S[00m:[01;34m~/comp362/JonesKadejha05/kadejha.jonesLab05/build/bin[00m$ ec[Kxit 
+exit
+
+Script done on 2023-02-28 11:00:45-05:00 [COMMAND_EXIT_CODE="127"]
